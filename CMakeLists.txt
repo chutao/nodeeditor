@@ -33,7 +33,7 @@ if(BUILD_DEBUG_POSTFIX_D)
   set(CMAKE_DEBUG_POSTFIX d)
 endif()
 
-add_subdirectory(external)
+#add_subdirectory(external)
 
 
 # Find the QtWidgets library
